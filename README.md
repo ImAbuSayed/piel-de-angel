@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Piel de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel/) |
+| **Get License** | [Get a Licensing Quote for Piel de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel de ángel, noche de calor
+> Tu mirada enciende mi motor
+> Bailas lento, pierdo el control
+> Eres veneno con sabor a sol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
