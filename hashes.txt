@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de ángel
+
+This log tracks the cryptographic history and versioning for the song **Piel de ángel** (piel-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:32:33.100522 | `v1` | `494b60c7c45b1d4dee670ddff7b97e3645e2000d9bd5bfc4eb14ef9d55581058` | `029e4731140543a80f79c6d0ff38a76e80e82a7cedc77c6480d36e653e4f07f5` | `2026-06-23_piel-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
